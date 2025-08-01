@@ -1,6 +1,7 @@
 <h1> Meu primeiro programa</h1>
 
-> Status do projeto: Em desenvolvimento
+![Static Badge](https://img.shields.io/badge/STATUS-DESENVOLVIMENTO-orange)
+
 
 Para rodar este projeto na sua máquina, por favor, digite: 
 
